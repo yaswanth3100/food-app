@@ -1,0 +1,42 @@
+.intro
+{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-wrap: wrap;
+}
+.view-img
+{
+object-fit: cover;
+width: 40rem;
+height: 45rem;
+padding: 5rem;
+}
+.view-content
+{
+ width: 45rem;
+ display: flex;
+ flex-direction: column;
+}
+.price
+{
+ margin-bottom: 3rem;
+}
+.para
+{
+ margin-bottom: 0rem;
+ 
+}
+.view-btn
+{
+ margin-right: 6rem;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding: 1rem;
+}
+.center
+{
+ margin-top: 10rem;
+ 
+}
